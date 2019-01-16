@@ -16,7 +16,6 @@ public class Quick3string {
         int lt = lo, gt = hi;
         //获取到第一个字符串第一个字母的ASCII  如果为末尾字符串 返回-1
         int v = charAt(a[lo], d);
-        //
         int i = lo + 1;
         //循环判断并交换 从lo+1开始
         while (i <= gt) {
@@ -30,7 +29,6 @@ public class Quick3string {
             else i++;
         }
         //至此循环结束后  lo-lt-1位置都是排在v前面的 ，lt-gt是等于v的，gt+1以后的都是排在v后面的
-
         //然后我们对左边的再进行三向切分排序，还是从d开始
         sort(a, lo, lt - 1, d);
         //如果不是末尾字符串 进行 d+1层 的排序
