@@ -1,12 +1,14 @@
 import sun.misc.Cleaner;
 
+import java.io.File;
+import java.io.IOException;
 import java.lang.ref.PhantomReference;
 import java.lang.ref.ReferenceQueue;
 import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 public class Test123 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 //        ReferenceQueue<String> queue = new ReferenceQueue<>();
 //        String s = new String("10");
 //        System.out.println(s);
@@ -17,14 +19,24 @@ public class Test123 {
 //        System.out.println(sr.get());
 //        System.out.println(s);
 //        System.out.println(queue.poll());
-        Student student=new Student();
-        System.out.println(student);
-        //student=null;
-        System.out.println(student.psr);
-        System.gc();
-        System.out.println(student);
-        System.out.println(student.referenceQueue.poll());
+//        Student student=new Student();
+//        System.out.println(student);
+//        //student=null;
+//        System.out.println(student.psr);
+//        System.gc();
+//        System.out.println(student);
+//        System.out.println(student.referenceQueue.poll());
+
+        test();
     }
+
+
+    public static void test() throws IOException {
+       String s="123";
+       s=s+"666";
+        System.out.println(s);
+    }
+
 }
 
 class Student {
