@@ -1,5 +1,7 @@
 import sun.misc.Cleaner;
 
+import java.io.File;
+import java.io.IOException;
 import java.lang.ref.PhantomReference;
 import java.lang.ref.ReferenceQueue;
 import java.lang.ref.SoftReference;
@@ -7,19 +9,37 @@ import java.lang.ref.WeakReference;
 
 public class Test123 {
     public static void main(String[] args) {
-       Student s=new Student();
-       Student s1=new Student();
-       Student s2=new Student();
-
+//        ReferenceQueue<String> queue = new ReferenceQueue<>();
+//        String s = new String("10");
+//        System.out.println(s);
+//        PhantomReference<String> sr = new PhantomReference<>(s, queue);
+//        System.out.println(s);
+//        System.out.println(sr.get());
+//        System.gc();                //通知JVM的gc进行垃圾回收
+//        System.out.println(sr.get());
+//        System.out.println(s);
+//        System.out.println(queue.poll());
+        Student student=new Student();
+        System.out.println(student);
+        //student=null;
+        System.out.println(student.psr);
+        System.gc();
+        System.out.println(student);
+        System.out.println(student.referenceQueue.poll());
     }
+
+
+    public static void test() throws IOException {
+       String s="123";
+       s=s+"666";
+        System.out.println(s);
+    }
+
 }
 
 class Student {
     PhantomReference<Student> psr ;
     ReferenceQueue<Student> referenceQueue=new ReferenceQueue<>();
-    static {
-        System.out.println("i an student");
-    }
     public Student() {
 
 
