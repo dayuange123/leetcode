@@ -8,7 +8,7 @@ import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 public class Test123 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 //        ReferenceQueue<String> queue = new ReferenceQueue<>();
 //        String s = new String("10");
 //        System.out.println(s);
@@ -19,13 +19,17 @@ public class Test123 {
 //        System.out.println(sr.get());
 //        System.out.println(s);
 //        System.out.println(queue.poll());
-        Student student=new Student();
-        System.out.println(student);
-        //student=null;
-        System.out.println(student.psr);
-        System.gc();
-        System.out.println(student);
-        System.out.println(student.referenceQueue.poll());
+//        Student student=new Student();
+//        System.out.println(student);
+//        //student=null;
+//        System.out.println(student.psr);
+//        System.gc();
+//        System.out.println(student);
+//        System.out.println(student.referenceQueue.poll());
+        File file= new File("123.txt");
+
+        System.out.println(file.getPath());
+
     }
 
 
@@ -36,20 +40,5 @@ public class Test123 {
     }
 
 }
-
-class Student {
-    PhantomReference<Student> psr ;
-    ReferenceQueue<Student> referenceQueue=new ReferenceQueue<>();
-    public Student() {
-
-
-    }
-
-    @Override
-    public String toString() {
-        return "Student{}";
-    }
-}
-
 
 
