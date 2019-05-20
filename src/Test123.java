@@ -9,6 +9,16 @@ import java.lang.ref.WeakReference;
 
 public class Test123 {
     public static void main(String[] args) throws IOException {
+        try {
+           // throw new NullPointerException();
+            throw new RuntimeException("");
+        }catch (Exception e){
+            if(e instanceof NullPointerException){
+                System.out.println("132132");
+            }else {
+                System.out.println("6666");
+            }
+        }
 //        ReferenceQueue<String> queue = new ReferenceQueue<>();
 //        String s = new String("10");
 //        System.out.println(s);
@@ -40,5 +50,20 @@ public class Test123 {
     }
 
 }
+
+class Student {
+    PhantomReference<Student> psr ;
+    ReferenceQueue<Student> referenceQueue=new ReferenceQueue<>();
+    public Student() {
+
+
+    }
+
+    @Override
+    public String toString() {
+        return "Student{}";
+    }
+}
+
 
 

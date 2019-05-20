@@ -4,6 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/from0to100/SolveNQueens.java" line="66" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="63a6acc2-e06f-43fa-b1e8-b54cdbe400bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/from0to100/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/from0to100/Searcha2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/from0to100/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/from0to100/SortColors.java" afterDir="false" />
     <list default="true" id="e6e2a719-0ba1-422c-94d2-d70f602c3861" name="Default" comment="每日一传">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/Student.class" beforeDir="false" />
@@ -141,6 +146,9 @@
       <change beforePath="$PROJECT_DIR$/out/production/myleetcode/sword2offer/tree/BinaryTreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/myleetcode/sword2offer/tree/MiddleOrderNextNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/myleetcode/sword2offer/tree/RebuildTwoForkTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Test123.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Test123.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/SimplifyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/SimplifyPath.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test123.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -173,8 +181,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/SortColors.java">
         <entry file="file://$PROJECT_DIR$/src/from0to100/SpiralMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             <state relative-caret-position="280">
               <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
@@ -182,8 +193,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/SetMatrixZeroes.java">
         <entry file="file://$PROJECT_DIR$/src/from0to100/PermutationSequence.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="37" column="62" lean-forward="true" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/MinimumWindowSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
             <state relative-caret-position="280">
               <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
@@ -194,19 +217,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test123.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
               <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            <state relative-caret-position="37752">
+              <caret line="1756" column="45" selection-start-line="1756" selection-start-column="45" selection-end-line="1756" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#124311#0" expanded="true" />
+                <element signature="e#38369#38370#0" expanded="true" />
+                <element signature="e#38423#38424#0" expanded="true" />
+                <element signature="e#47538#47539#0" expanded="true" />
+                <element signature="e#47602#47603#0" expanded="true" />
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
+                <element signature="e#82971#82972#0" expanded="true" />
+                <element signature="e#83020#83021#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6930">
+              <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4950">
+              <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/from0to100/WordSearch.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/Searcha2DMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/f">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44396">
+              <caret line="2069" column="23" selection-start-line="2069" selection-start-column="23" selection-end-line="2069" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
@@ -254,6 +333,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/from0to100/RotateList.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/TextJustification.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/Sqrtx.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/SimplifyPath.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/Searcha2DMatrix.java" />
+        <option value="$PROJECT_DIR$/src/f" />
+        <option value="$PROJECT_DIR$/src/Test123.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/SortColors.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/SetMatrixZeroes.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/from0to100/PowXn.java" />
         <option value="$PROJECT_DIR$/src/from0to100/AAAAAAAAAAAATest.java" />
         <option value="$PROJECT_DIR$/src/sword2offer/highqualitycode/DeleteLinkListNode.java" />
@@ -315,6 +406,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="117" />
+    <option name="y" value="232" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -347,6 +442,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -371,11 +467,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557228667672" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backend" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558250336674" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bishe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -415,6 +514,9 @@
     </configuration>
     <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="from0to100.Combinations" />
+  <component name="RunManager" selected="Application.MinimumWindowSubstring">
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="from0to100.ClimbingStairs" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -431,6 +533,9 @@
       <option name="MAIN_CLASS_NAME" value="from0to100.CountandSay" />
       <module name="myleetcode" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="from0to100.MinimumWindowSubstring" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="from0to100.*" />
@@ -441,6 +546,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="from0to100.SetMatrixZeroes" />
+      <module name="leetcode" />
     <configuration name="LookupInTwoArrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sword2offer.LookupInTwoArrays" />
       <module name="myleetcode" />
@@ -485,14 +593,22 @@
     </configuration>
     <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="from0to100.Subsets" />
+    <configuration name="SimplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="from0to100.SimplifyPath" />
       <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="from0to100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test123" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -553,6 +669,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumWindowSubstring" />
+        <item itemvalue="Application.Test123" />
+        <item itemvalue="Application.SetMatrixZeroes" />
+        <item itemvalue="Application.SimplifyPath" />
+        <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.Test123 (1)" />
         <item itemvalue="Application.Test123" />
         <item itemvalue="Application.Subsets" />
@@ -672,6 +793,18 @@
       <workItem from="1557913468687" duration="1423000" />
       <workItem from="1558011015872" duration="745000" />
       <workItem from="1558248639834" duration="714000" />
+      <updated>1554282869206</updated>
+      <workItem from="1554282870873" duration="3927000" />
+      <workItem from="1554367475171" duration="3468000" />
+      <workItem from="1554686403708" duration="5852000" />
+      <workItem from="1554969464461" duration="1826000" />
+      <workItem from="1555297834915" duration="13183000" />
+      <workItem from="1555659031949" duration="4424000" />
+      <workItem from="1556182145696" duration="50000" />
+      <workItem from="1556182221144" duration="4323000" />
+      <workItem from="1557045225847" duration="1935000" />
+      <workItem from="1557196296933" duration="15757000" />
+      <workItem from="1558317392094" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传">
       <created>1539007662303</created>
@@ -852,6 +985,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55444000" />
     <option name="totallyTimeSpent" value="540508000" />
   </component>
   <component name="TodoView">
@@ -864,9 +998,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" weight="0.10074627" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18546638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3470716" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25381097" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
@@ -1095,6 +1258,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/Sqrtx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/SimplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37752">
+          <caret line="1756" column="45" selection-start-line="1756" selection-start-column="45" selection-end-line="1756" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="true" />
+            <element signature="e#38369#38370#0" expanded="true" />
+            <element signature="e#38423#38424#0" expanded="true" />
+            <element signature="e#47538#47539#0" expanded="true" />
+            <element signature="e#47602#47603#0" expanded="true" />
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6930">
+          <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4950">
+          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/f">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_102/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1456,7 +1683,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/from0to100/PermutationSequence.java">
+    <entry file="file://$PROJECT_DIR$/src/from0to100/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         <state relative-caret-position="280">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
@@ -1465,8 +1695,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/SetMatrixZeroes.java">
     <entry file="file://$PROJECT_DIR$/out/production/leetcode/from0to100/PlusOne.class">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="37" column="62" lean-forward="true" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
         <state>
           <folding>
             <element signature="e#0#777#0" expanded="true" />
@@ -1474,8 +1707,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/Searcha2DMatrix.java">
     <entry file="file://$PROJECT_DIR$/src/Test123.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         <state relative-caret-position="319">
           <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding>
@@ -1484,8 +1720,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/MinimumWindowSubstring.java">
     <entry file="file://$PROJECT_DIR$/src/from0to100/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
         <state relative-caret-position="60">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
