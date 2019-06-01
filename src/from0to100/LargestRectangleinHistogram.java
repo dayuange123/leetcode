@@ -30,33 +30,32 @@ public class LargestRectangleinHistogram {
         return max;
     }
 
-    public int largestRectangleArea1(int[] heights) {
-        Stack<Integer> s = new Stack<>();
-
-        int max = 0;
-        int tp;
-        int area_with_top;
-        int i = 0;
-        while (i < heights.length) {
-            if (s.isEmpty() || heights[s.peek()] <= heights[i])
-                s.push(i++);
-            else {
-                tp = s.pop();
-                area_with_top = heights[tp] * (s.empty() ? i : i - s.peek() - 1);
-                if (max < area_with_top)
-                    max = area_with_top;
-            }
-        }
-        while (s.isEmpty() == false) {
-            tp = s.peek();
-            s.pop();
-            area_with_top = heights[tp] * (s.empty() ? i : i - s.peek() - 1);
-            if (max < area_with_top)
-                max = area_with_top;
-        }
-
-        return max;
-    }
+//    public int largestRectangleArea1(int[] heights) {
+//        Stack<Integer> s = new Stack<>();
+//
+//        int max = 0;
+//        int tp;
+//        int area_with_top;
+//        int i = 0;
+//        while (i < heights.length) {
+//            if (s.isEmpty() || heights[s.peek()] <= heights[i])
+//                s.push(i++);
+//            else {
+//                tp = s.pop();
+//                area_with_top = heights[tp] * (s.empty() ? i : i - s.peek() - 1);
+//                if (max < area_with_top)
+//                    max = area_with_top;
+//            }
+//        }
+//        while (s.isEmpty() == false) {
+//            tp = s.peek();
+//            s.pop();
+//            area_with_top = heights[tp] * (s.empty() ? i : i - s.peek() - 1);
+//            if (max < area_with_top)
+//                max = area_with_top;
+//        }
+//        return max;
+//    }
 
     public static void main(String[] args) {
         int[] a = {2, 1, 5, 6, 2, 3};
