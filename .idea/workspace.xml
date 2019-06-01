@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63a6acc2-e06f-43fa-b1e8-b54cdbe400bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/from0to100/LargestRectangleinHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/from0to100/GrayCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/RemoveDuplicatesfromSortedListII$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/RemoveDuplicatesfromSortedListII$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/RemoveDuplicatesfromSortedListII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/RemoveDuplicatesfromSortedListII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Test123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TetsIntet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/AAAAAAAAAAAATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/LargestRectangleinHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/LargestRectangleinHistogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/UniquePaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/UniquePaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/from0to100/WordSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/from0to100/WordSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test123.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,17 +27,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/from0to100/SearchinRotatedSortedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="800">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/LargestRectangleinHistogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/from0to100/LargestRectangleinHistogram.java">
+        <entry file="file://$PROJECT_DIR$/src/from0to100/GrayCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            <state relative-caret-position="660">
+              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="64" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/from0to100/Rotateimage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -59,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedListII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="80">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedList.java" />
         <option value="$PROJECT_DIR$/src/from0to100/SearchinRotatedSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/from0to100/LargestRectangleinHistogram.java" />
+        <option value="$PROJECT_DIR$/src/from0to100/GrayCode.java" />
       </list>
     </option>
   </component>
@@ -119,19 +136,37 @@
         <subPane>
           <expand>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="from0to100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="from101to200" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="from300to383" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="from600to700" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558678254687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559372406897" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bishe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,7 +197,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestRectangleinHistogram">
+  <component name="RunManager" selected="Application.GrayCode">
+    <configuration name="GrayCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="from0to100.GrayCode" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="from0to100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LargestRectangleinHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="from0to100.LargestRectangleinHistogram" />
       <module name="leetcode" />
@@ -217,6 +265,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrayCode" />
         <item itemvalue="Application.LargestRectangleinHistogram" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedListII" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArrayII" />
@@ -248,27 +297,27 @@
       <workItem from="1558448962422" duration="10692000" />
       <workItem from="1558577199758" duration="5402000" />
       <workItem from="1558662009237" duration="8127000" />
+      <workItem from="1558796757789" duration="7951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85690000" />
+    <option name="totallyTimeSpent" value="93641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.21646342" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5010846" side_tool="true" weight="0.18336888" />
       <window_info id="Structure" order="6" weight="0.10074627" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.5856833" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23210412" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19864176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3177874" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,8 +326,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.2359932" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.3293718" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.5856833" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,59 +387,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test123.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37752">
-          <caret line="1756" column="45" selection-start-line="1756" selection-start-column="45" selection-end-line="1756" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#124311#0" expanded="true" />
-            <element signature="e#38369#38370#0" expanded="true" />
-            <element signature="e#38423#38424#0" expanded="true" />
-            <element signature="e#47538#47539#0" expanded="true" />
-            <element signature="e#47602#47603#0" expanded="true" />
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6930">
-          <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4950">
-          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44396">
-          <caret line="2069" column="23" selection-start-line="2069" selection-start-column="23" selection-end-line="2069" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4026">
-          <caret line="213" column="21" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/from0to100/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -441,6 +444,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/SearchinRotatedSortedArrayII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/Rotateimage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/from0to100/RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -448,38 +479,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedList.java">
+    <entry file="file://$PROJECT_DIR$/src/Test123.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/from0to100/Rotateimage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/from0to100/RemoveDuplicatesfromSortedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/from0to100/SearchinRotatedSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="760">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/from0to100/LargestRectangleinHistogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from0to100/GrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="64" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
