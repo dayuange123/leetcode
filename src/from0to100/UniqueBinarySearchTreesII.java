@@ -75,4 +75,8 @@ public class UniqueBinarySearchTreesII {
         }
         return newHead;
     }
+
+    public static void main(String[] args) {
+        System.out.println(null==null);
+    }
 }
