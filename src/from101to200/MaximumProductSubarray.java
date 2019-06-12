@@ -1,6 +1,5 @@
 package from101to200;
 
-import com.sun.org.apache.regexp.internal.RE;
 
 public class MaximumProductSubarray {
     public int maxProduct1(int[] nums) {
