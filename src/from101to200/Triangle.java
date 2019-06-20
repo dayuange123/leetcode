@@ -22,7 +22,7 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/triangle
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class VPN崩了难受呀 {
+public class Triangle {
 
     public int minimumTotal(List<List<Integer>> triangle) {
         if (triangle.size() == 0) return 0;
@@ -34,7 +34,7 @@ public class VPN崩了难受呀 {
             res[i] = triangle.get(triangle.size() - 1).get(i);
         for (int i = triangle.size() - 2; i >= 0; i--) {
             for (int j = 0; j <= i; j++) {
-                res[j] = res[j] > res[j + 1] ? res[j] + triangle.get(i).get(j) : res[j+1] + triangle.get(i).get(j);
+                res[j] = res[j] < res[j + 1] ? res[j] + triangle.get(i).get(j) : res[j+1] + triangle.get(i).get(j);
             }
         }
         return res[0];
